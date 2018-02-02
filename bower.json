@@ -1,0 +1,7 @@
+{
+  "name": "tasklist",
+  "directory": "client/bower_components",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}

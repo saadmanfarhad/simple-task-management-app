@@ -1,0 +1,17 @@
+{
+  "name": "(tasklist)",
+  "version": "1.0.0",
+  "description": "A simple task management application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saadman Farhad",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongojs": "^2.4.1"
+  }
+}
